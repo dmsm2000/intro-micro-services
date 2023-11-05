@@ -1,4 +1,4 @@
 # Spring boot Micro services
 
-## Microservices tutorial project
+## Microservices intro project
 ### by David Marques.# intro-micro-services
